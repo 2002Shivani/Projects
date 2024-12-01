@@ -21,8 +21,8 @@ of python libraries we can plot the charts. Nowadays python is the best and tren
 programming language for data analysis.
 Keywords: HTML ,CSS,JavaScript ,Python ,Data Analysis, Flask ,Pandas , Plotly</p>
 
-![SS-1](Projects\Data Visiualization Website\output\image.png)
-![SS-2](Projects\Data Visiualization Website\output\image-1.png)
+![SS-1](.\image.png)
+![SS-2](.\image-1.png)
 ![SS-3](Projects\Data Visiualization Website\output\image-2.png)
 ![SS-4](Projects\Data Visiualization Website\output\image-3.png)
 ![SS-5](Projects\Data Visiualization Website\output\image-4.png)
