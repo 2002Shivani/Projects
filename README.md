@@ -5,9 +5,16 @@
 <p>Simple Website to implement register , login and profile functionality using servlet and jsp.</p>
 <h3>Active Functionality</h3>
 <ol>
+   <li>Home</li>
+  <img src = "">
   <li>Register</li>
+  <img src = "">
   <li>Login</li>
+  <img src = "">
   <li>Profile</li>
+  <img src = "">
+  <li>Table</li>
+  <img src = "">
 </ol>
 
 <li><h2>Prime Number Check</h2></li>
