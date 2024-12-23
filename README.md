@@ -6,15 +6,15 @@
 <h3>Active Functionality</h3>
 <ol>
    <li>Home</li>
-  <img src = "">
+  <img src = "JBK Web/home.png">
   <li>Register</li>
-  <img src = "">
+  <img src = "JBK Web/register.png">
   <li>Login</li>
-  <img src = "">
+  <img src = "JBK Web/login.png">
   <li>Profile</li>
-  <img src = "">
+  <img src = "JBK Web/profile.png">
   <li>Table</li>
-  <img src = "">
+  <img src = "JBK Web/database.png">
 </ol>
 
 <li><h2>Prime Number Check</h2></li>
