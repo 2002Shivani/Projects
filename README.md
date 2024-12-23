@@ -12,4 +12,7 @@
 
 <li><h2>Prime Number Check</h2></li>
 <p>Check the prime number between 1 to 50 in jsp by using java code in jsp file.</p>
+
+<b><h3>Output</h3><b>
+<img src = "PrimeNumberWeb/src/main/webapp/image.png">
 </ul>
