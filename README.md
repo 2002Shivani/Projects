@@ -5,15 +5,15 @@
 <p>Simple Website to implement register , login and profile functionality using servlet and jsp.</p>
 <h3>Active Functionality</h3>
 <ol>
-   <li>Home</li>
+  <h3> <li>Home</li></h3>
   <img src = "JBK Web/home.png">
-  <li>Register</li>
+  <h3>  <li>Register</li></h3>
   <img src = "JBK Web/register.png">
-  <li>Login</li>
+   <h3>  <li>Login</li></h3>
   <img src = "JBK Web/login.png">
-  <li>Profile</li>
+  <h3>  <li>Profile</li></h3>
   <img src = "JBK Web/profile.png">
-  <li>Table</li>
+   <h3> <li>Table</li></h3>
   <img src = "JBK Web/database.png">
 </ol>
 
