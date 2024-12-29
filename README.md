@@ -22,4 +22,12 @@
 
 <b><h3>Output</h3><b>
 <img src = "PrimeNumberWeb/src/main/webapp/image.png">
+
+<li><h2>Pojo Class / Entity Object</h2></li>
+<p>This is the example of an entity object class. There are six packages , each page have an one Java file ,1.Employee.java 2. DistrictDetails.java 3.Student.java 4.PatientDetails.java 5.ProductDetails.java and 6.Main.java java file for handling /creating tables in database.This all is done by using hibernet.</p>
+
+<b><h3>Output</h3><b>
+<img src = "Hibernate Framework/PojoClassandEntity/entityobject.png">
+<br>
+<img src = "Hibernate Framework/PojoClassandEntity/entityobjectdb.png">
 </ul>
